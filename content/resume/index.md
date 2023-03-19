@@ -1,18 +1,14 @@
 ---
-title: "Resume"
-draft: false
-menu:
-    main:
-        name: My Resume
+title: Resume
+date: '2023-03-19'
+lastmod: ''2023-03-19'
 ---
 
 ## Experience
-Placeholder
----
+Placeholder  
 
-## Achievements
-Placeholder
----
+## Achievements  
+Placeholder  
 
 ## Training
-Placeholder
+Placeholder  

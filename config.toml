@@ -1,6 +1,6 @@
 baseURL = 'http://example.org/'
 languageCode = 'en-us'
-title = "Smitty's Blog"
+title = "Gary Smith"
 theme = "Stack"
 
 [menu]
@@ -11,4 +11,12 @@ theme = "Stack"
     identifier = "home"
     [menu.main.params]
         icon = "home"
-        newTab = true
+        newTab = false
+[[menu.main]]
+    name = "Resume"
+    url = "/resume/"
+    weight = 10
+    identifier = "resume"
+    [menu.main.params]
+        icon = "user"
+        newTab = false
