@@ -2,3 +2,13 @@ baseURL = 'http://example.org/'
 languageCode = 'en-us'
 title = "Smitty's Blog"
 theme = "Stack"
+
+[menu]
+[[menu.main]]
+    name = "Guides"
+    url = "/guides/"
+    weight = 10
+    identifier = "home"
+    [menu.main.params]
+        icon = "home"
+        newTab = true

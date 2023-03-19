@@ -1,6 +1,9 @@
 ---
 title: "Resume"
 draft: false
+menu:
+    main:
+        name: My Resume
 ---
 
 ## Experience
