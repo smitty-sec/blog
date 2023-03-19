@@ -15,25 +15,17 @@ theme = "LoveIt"
 [menu]
   [[menu.main]]
     weight = 1
-    identifier = "posts"
+    identifier = "guides"
     # you can add extra information before the name (HTML format is supported), such as icons
     pre = ""
     # you can add extra information after the name (HTML format is supported), such as icons
     post = ""
-    name = "Posts"
-    url = "/posts/"
+    name = "Guides"
+    url = "/guides/"
     # title will be shown when you hover on this menu link
-    title = "Posts"
+    title = ""
   [[menu.main]]
     weight = 2
-    identifier = "resume"
-    pre = ""
-    post = ""
-    name = "Resume"
-    url = "/resume/"
-    title = "Resume"
-  [[menu.main]]
-    weight = 3
     identifier = "categories"
     pre = ""
     post = ""
